@@ -1,0 +1,60 @@
+
+
+/*--------------- Raleway --------------*/
+
+@font-face {
+    font-weight: 500;
+    font-style: normal;
+
+    font-family: 'Raleway';
+    src: url(../fonts/Raleway-Medium.ttf);
+}
+
+
+/*--------------- Nunito --------------*/
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+
+    font-family: 'Nunito';
+    src: url(../fonts/Nunito-Bold.ttf);
+}
+
+
+
+/*--------------- OpenSans --------------*/
+
+@font-face {
+    font-weight: 300;
+    font-style: normal;
+
+    font-family: 'OpenSans';
+    src: url(../fonts/OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+
+    font-family: 'OpenSans';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+
+@font-face {
+    font-weight: 600;
+    font-style: normal;
+
+    font-family: 'OpenSans';
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+
+    font-family: 'OpenSans';
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+
